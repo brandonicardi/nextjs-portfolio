@@ -19,23 +19,23 @@ export default function About() {
     >
       <SectionHeading>Sobre mí</SectionHeading>
       <p className="mb-3">
-        Despues de finalizar el colegio{" "}
-        descubri mi pasion por la programacion. Me inscribi en una carrera relacionada 
-        <span className="font-medium"> (Licenciatura en sistemas)</span> y aprendi muchisimas cosas nuevas.{" "}
+        Después de finalizar el colegio{" "}
+        descubrí mi pasión por la programación. Me inscribí en una carrera relacionada
+        <span className="font-medium"> (Licenciatura en sistemas)</span> y aprendí muchísimas cosas nuevas.{" "}
         <span className="italic">Mi parte favorita de programar</span> es el aspecto
-        de resolucion de problemas. Realmente <span className="underline">amo</span> la sensación de encontrar 
-        la solución a un problema. Mis tecnologias principales son{" "}
+        de resolución de problemas. Realmente <span className="underline">amo</span> la sensación de encontrar
+        la solución a un problema. Mis tecnologías principales son{" "}
         <span className="font-medium">
-          React, PHP, Java & T-SQL
+          React, PHP, Java & SQL
         </span>
-        . También estoy familiarizado con metodologias agiles tales como Scrum y Kanban. Siempre estoy buscando 
+        . También me encuentro familiarizado con metodologías ágiles tales como Scrum y Kanban. Siempre estoy buscando
         aprender nuevas tecnologías. Actualmente estoy buscando una {" "}
         <span className="font-medium">posición part-time</span> como desarrollador de software
         que me permita continuar con mi carrera.
       </p>
 
       <p>
-        <span className="italic">Cuando no estoy programando</span>, disfruto jugando videojuegos, 
+        <span className="italic">Cuando no estoy programando</span>, disfruto jugando videojuegos,
         viendo películas o leyendo. También me gusta{" "}
         <span className="font-medium">aprender cosas nuevas</span>. Actualmente
         estoy estudiando sobre{" "}
