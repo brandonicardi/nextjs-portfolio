@@ -30,11 +30,11 @@ export default function ContactFormEmail({
           <Container>
             <Section className="bg-white borderBlack my-10 px-10 py-4 rounded-md">
               <Heading className="leading-tight">
-                Recibiste un nuevo mensaje desde el formulario de contacto en tu sitio.
+                Recibiste un nuevo mensaje desde tu sitio.
               </Heading>
               <Text>{message}</Text>
               <Hr />
-              <Text>Quien te ha enviado el mail es: {senderEmail}</Text>
+              <Text>El mail fue enviado por: {senderEmail}</Text>
             </Section>
           </Container>
         </Body>
