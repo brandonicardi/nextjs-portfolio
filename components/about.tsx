@@ -26,10 +26,10 @@ export default function About() {
         de resolución de problemas. Realmente <span className="underline">amo</span> la sensación de encontrar
         la solución a un problema. Mis tecnologías principales son{" "}
         <span className="font-medium">
-          React, PHP, Java & SQL
+          React, PHP (Laravel), Java (SpringBoot) & T-SQL
         </span>
-        . También me encuentro familiarizado con metodologías ágiles tales como Scrum y Kanban. Siempre estoy buscando
-        aprender nuevas tecnologías. Actualmente estoy buscando una {" "}
+        . También me encuentro familiarizado con metodologías ágiles tales como Scrum y Kanban.
+         Actualmente estoy buscando una {" "}
         <span className="font-medium">posición part-time</span> como desarrollador de software
         que me permita continuar con mi carrera.
       </p>
@@ -38,8 +38,8 @@ export default function About() {
         <span className="italic">Cuando no estoy programando</span>, disfruto jugando videojuegos,
         viendo películas o leyendo. También me gusta{" "}
         <span className="font-medium">aprender cosas nuevas</span>. Actualmente
-        estoy estudiando sobre{" "}
-        <span className="font-medium">ciberseguridad por cuenta propia</span>.
+        estoy estudiando{" "}
+        <span className="font-medium">ciberseguridad por cuenta propia.</span>.
       </p>
     </motion.section>
   );

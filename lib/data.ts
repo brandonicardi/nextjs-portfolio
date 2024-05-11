@@ -54,7 +54,7 @@ export const experiencesData = [
     description:
       "Actualmente estoy en el tercer año de mi carrera, con un promedio general de 8. A lo largo de mi trayectoria académica, he llevado a cabo proyectos que me han permitido adquirir experiencia en desarrollo utilizando tecnologías clave como Java.",
     icon: React.createElement(LuGraduationCap),
-    date: "2021",
+    date: "2021 - Actualidad",
   },
   {
     title: "Servicio Tecnico en Computación",
