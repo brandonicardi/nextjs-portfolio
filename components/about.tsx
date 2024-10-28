@@ -19,27 +19,31 @@ export default function About() {
     >
       <SectionHeading>Sobre mí</SectionHeading>
       <p className="mb-3">
-        Después de finalizar el colegio{" "}
-        descubrí mi pasión por la programación. Me inscribí en una carrera relacionada
-        <span className="font-medium"> (Licenciatura en sistemas)</span> y aprendí muchísimas cosas nuevas.{" "}
-        <span className="italic">Mi parte favorita de programar</span> es el aspecto
-        de resolución de problemas. Realmente <span className="underline">amo</span> la sensación de encontrar
-        la solución a un problema. Mis tecnologías principales son{" "}
+        Tras finalizar el colegio, descubrí mi pasión por la programación y
+        decidí inscribirme en la
+        <span className="font-medium">Licenciatura en Sistemas</span>, donde he
+        tenido la oportunidad de aprender y desarrollar nuevas habilidades.
+        <span className="italic">Lo que más me atrae de programar</span> es la
+        resolución de problemas; realmente
+        <span className="underline">disfruto</span> la satisfacción de encontrar
+        soluciones a errores y desafíos técnicos. Mis principales tecnologías
+        incluyen{" "}
         <span className="font-medium">
-          React, PHP (Laravel), Java (SpringBoot) & T-SQL
+          SQL/T-SQL, PHP (con Laravel), Java (con SpringBoot) y React
         </span>
-        . También me encuentro familiarizado con metodologías ágiles tales como Scrum y Kanban.
-         Actualmente estoy buscando una {" "}
-        <span className="font-medium">posición part-time</span> como desarrollador de software
-        que me permita continuar con mi carrera.
+        . Además, tengo experiencia con metodologías ágiles como Scrum y Kanban.
+        Actualmente, estoy en la búsqueda de una
+        <span className="font-medium">posición part-time</span> como
+        desarrollador de software que me permita seguir creciendo
+        profesionalmente y avanzar en mi carrera.
       </p>
 
       <p>
-        <span className="italic">Cuando no estoy programando</span>, disfruto jugando videojuegos,
-        viendo películas o leyendo. También me gusta{" "}
-        <span className="font-medium">aprender cosas nuevas</span>. Actualmente
-        estoy estudiando{" "}
-        <span className="font-medium">ciberseguridad por cuenta propia.</span>.
+        <span className="italic">Fuera del trabajo</span>, disfruto de los
+        videojuegos, el cine y la lectura. También me motiva
+        <span className="font-medium">aprender cosas nuevas</span>, y en este
+        momento estoy cursando un programa de
+        <span className="font-medium">QA Testing con Globant</span>.
       </p>
     </motion.section>
   );

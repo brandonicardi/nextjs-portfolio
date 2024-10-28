@@ -64,7 +64,7 @@ export default function Intro() {
       >
         <span className="font-bold">Hola, mi nombre es Brandon.</span> Soy un{" "}
         <span className="font-bold">programador full-stack junior</span> con{" "}
-        <span className="font-bold">1 año de experiencia</span>. Me encuentro en busca de mi proxima{" "}
+        <span className="font-bold">2 años de experiencia</span>. Me encuentro en busca de mi proxima{" "}
         <span className="font-bold">oportunidad laboral</span>.
       </motion.h1>
 

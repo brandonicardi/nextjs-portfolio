@@ -33,12 +33,20 @@ export const links = [
 
 export const experiencesData = [
   {
+    title: "Analista Programador",
+    location: "ACCUSYS TECHNOLOGY",
+    description:
+      "He desarrollado y optimizado procedimientos almacenados (store procedures), tablas, y consultas complejas (queries) en SQL, especializándome en manipulación de datos (DML's). Además, he implementado servicios web, tanto SOAP como REST, garantizando una integración efectiva con diversas plataformas. En el ámbito de control de versiones, manejo herramientas como TFS y GIT, permitiendo un seguimiento preciso de los cambios en el código. Participo activamente en proyectos de desarrollo ágiles, contribuyendo dentro de equipos que aplican la metodología Scrum para lograr resultados efectivos y organizados.",
+    icon: React.createElement(CgWorkAlt),
+    date: "2024 - Actualidad",
+  },
+  {
     title: "Analista Programador Back-End",
     location: "SISEM",
     description:
       "Me he destacado por adaptarme y aprender sobre herramientas como JxNet/.NET. Participo activamente en reuniones con clientes y logre hacerme de experiencia en el manejo y creación de consultas (queries), procedimientos almacenados (sp's) y manipulación de datos (DML's) utilizando T-SQL.",
     icon: React.createElement(CgWorkAlt),
-    date: "2023 - Actualidad",
+    date: "2023 - 2024",
   },
   {
     title: "Desarrollo en Aplicaciones Web",
@@ -52,7 +60,7 @@ export const experiencesData = [
     title: "Licenciatura en Sistemas",
     location: "Universidad Nacional de Lanús",
     description:
-      "Actualmente estoy en el tercer año de mi carrera, con un promedio general de 8. A lo largo de mi trayectoria académica, he llevado a cabo proyectos que me han permitido adquirir experiencia en desarrollo utilizando tecnologías clave como Java.",
+      "Cursando actualmente el cuarto año, con un promedio general de 8. he completado proyectos clave aplicando Java, consolidando una base sólida en desarrollo de software y bases de datos.",
     icon: React.createElement(LuGraduationCap),
     date: "2021 - Actualidad",
   },
@@ -60,7 +68,7 @@ export const experiencesData = [
     title: "Servicio Tecnico en Computación",
     location: "RISUS Computación",
     description:
-      "Me especialicé en el formateo e instalación de programas, la recuperación de datos y la eliminación de virus. Además, tengo experiencia en el mantenimiento de hardware, incluido el ensamblaje de computadoras, así como en el diagnóstico y la resolución de errores técnicos.",
+      "Me especialicé en formateo e instalación de software, recuperación de datos, y mantenimiento de hardware, desarrollando habilidades en diagnóstico y resolución de problemas técnicos complejos.",
     icon: React.createElement(CgWorkAlt),
     date: "2019 - 2021",
   },
@@ -82,6 +90,7 @@ export const skillsData = [
   "CSS",
   "JavaScript",
   "TypeScript",
+  "SQL",
   "React",
   "Next.js",
   "Java",
